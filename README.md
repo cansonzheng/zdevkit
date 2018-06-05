@@ -1,2 +1,2 @@
-# zdevkit
-js开发工具包
+# zdevlibs
+js开发资源库
