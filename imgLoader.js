@@ -12,6 +12,6 @@ export default o=>{
     if(o.error) o.error();
   }
   image.onload = () => {
-    if(o.error) o.finish();
+    if(o.finish) o.finish(o.src);
   }
 }
